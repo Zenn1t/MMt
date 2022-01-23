@@ -94,6 +94,6 @@ After entering the command line "PPN" you will see a line where you need to ente
 
 
 
-telega-https://t.me/scamroot-ru
-telega-https://t.me/multitoolmarker-eng
+telega-https://t.me/scamroot -ru
+telega-https://t.me/multitoolmarker -eng
 
